@@ -9,5 +9,5 @@ A batch script that disables windows defender
 - Requires Admin rights & Access to Run in order to Apply Changes (Since reg add Commands can be ONLY Accessible through an Administrator User)
 
 
-## Why did i create it?
+## Why did i make this?
 ![lmaoooo](https://github.com/ArielS-gif/sussonfuckdefender/assets/77091800/0520e72b-7be6-4bfa-b8ff-e59f1bc3a7f3)
